@@ -1,3 +1,10 @@
+<h1>GoldHEN 2.4b13 - April 16, 2023</h1>
+    
+    -Improved FTP self decryption
+    -Improved xml/shn parser
+    -Fixed cheat navigation after rest mode
+    -Added "Search Subdirectories" and "Show Package Path" features in Debug Settings
+<p>
 <h1>GoldHEN 2.4b5 -  March 29, 2023</h1>
 
     -Added FTP Server v2.1 (Thanks to hippie68)

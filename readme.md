@@ -1,3 +1,13 @@
+<h1>GoldHEN 2.4b14 - June 21, 2023</h1>
+    
+    -Improved plugin loader (Thanks to illusion0001)
+    -Improved FTP (Thanks to hippie68)
+    -Improved MC4 support (Thanks to ctn)
+    -Added cheat description support (Thanks to ctn)
+    -Added background package installation support
+    -Added package info on package installation support
+    -Fixed Orbis Toolbox support 
+<p>
 <h1>GoldHEN 2.4b13 - April 16, 2023</h1>
     
     -Improved FTP self decryption
